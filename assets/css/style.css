@@ -1,0 +1,21 @@
+h1{
+    background-color: #cccccc;
+    display: inline-block;
+}
+
+a{
+	background-color: #cccccc;
+	display: inline-block;
+    color: red;
+    margin-left: 12px;
+}
+.myPic{
+	width:200px;
+	height: 200px; 
+}
+h3{
+	display: inline-block;
+}
+h4{
+	display: inline-block;
+}
